@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there! I'm Rodrigo Isaias
+I'm a Computer Science student and Systems Analyst passionate about Backend Development with **Java**.
 
-<!--
-**roodarj7/roodarj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **My Tech Stack:**
+* **Core:** Java, SQL
+* **Frameworks:** Spring Boot (Studying), Hibernate
+* **Tools:** Git
+* **Interests:** Cloud Computing (AWS) & Software Architecture
 
-Here are some ideas to get you started:
+🌱 **Currently Working on:**
+* Building REST APIs with Spring Boot
+* Improving my English skills for tech environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's connect:**
+www.linkedin.com/in/roodarj7/ |  rodisaias028@gmail.com

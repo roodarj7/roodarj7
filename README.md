@@ -1,15 +1,16 @@
-### Hi there! I'm Rodrigo Isaias
-I'm a Computer Science student and Systems Analyst passionate about Backend Development with **Java**.
+### Olá! 
+Sou estudante de Ciências da computação.  Focado em desenvolvimento Backend com Java e banco de dados SQL.
 
-🚀 **My Tech Stack:**
-* **Core:** Java, SQL
-* **Frameworks:** Spring Boot (Studying), Hibernate
-* **Tools:** Git
-* **Interests:** Cloud Computing (AWS) & Software Architecture
+## O que estou estudando:
 
-🌱 **Currently Working on:**
-* Building REST APIs with Spring Boot
-* Improving my English skills for tech environments
+Ecossistema Spring Boot
 
-📫 **Let's connect:**
-www.linkedin.com/in/roodarj7/ |  rodisaias028@gmail.com
+Construção de APIs REST
+
+Boas práticas de código (Clean Code)
+
+## Idioma:
+
+Português (Nativo)
+
+Inglês (Leitura Técnica Avançada)
